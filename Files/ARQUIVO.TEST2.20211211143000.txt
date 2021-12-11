@@ -1,0 +1,8 @@
+INITIAL Arquivo Teste
+1;Ameixa;10;3,50
+2;Banana;3;7,00
+3;Laranaja;2;6,00
+4;Maça;3;8,90
+5;Uva;2;12,00
+6;Morango;2;7,00
+FINAL000000000000000006
