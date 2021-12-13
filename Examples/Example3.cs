@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-namespace Example.Interative.Yield.Examples
+namespace Example.Iterative.Yield.Examples
 {
     public static class Example3
     {

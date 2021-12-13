@@ -1,5 +1,5 @@
 ﻿using System;
-using Example.Interative.Yield.Examples;
+using Example.Iterative.Yield.Examples;
 
 namespace Example.Interative.Yield
 {
@@ -7,7 +7,7 @@ namespace Example.Interative.Yield
     {
         static void Main(string[] args)
         {
-            Example3.ShowFruitList();
+            Example4.ShowCars();
 
             Console.ReadKey();
         }
